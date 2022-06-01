@@ -38,7 +38,7 @@ global.ig = 'https://www.instagram.com/ekaputraaputra/?hl=id'
 global.mygc = 'https://chat.whatsapp.com/C1lkOoXxfzNJPdacaetfbn'
 global.myweb = '_'
 global.email = 'ekaputrasusilo12@gmail.com'
-global.region = 'indonesia🇮🇩'
+global.region = 'indramayu-ndonesia🇮🇩'
 
 //—————「 Set Wm 」—————//
 global.packname = 'Eka-Bot' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
